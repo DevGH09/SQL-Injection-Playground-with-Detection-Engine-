@@ -45,8 +45,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/sql-injection-playground.git
-cd sql-injection-playground
+git clone https://github.com/DevGH09/SQL-Injection-Playground-with-Detection-Engine-
 
 
 Set up the vulnerable application:
